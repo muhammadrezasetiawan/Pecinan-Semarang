@@ -1,6 +1,6 @@
 {
  "name": "Kampung Pecinan",
- "background_color": "#000000",
+ "start_url": "index.htm?installed=true",
  "theme_color": "#000000",
  "icons": [
   {
@@ -19,6 +19,6 @@
    "src": "icons/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#000000"
 }
